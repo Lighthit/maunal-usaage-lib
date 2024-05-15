@@ -27,3 +27,5 @@ How to used GitHub
 5. $git push                      // upload ur code into website
 
 extra 1 : $git reset --hard       // rollback ur code into last commit maybe in server or local
+extra 2 : if pull/push error try to add like these
+          $git push/pull origin <branch name>
